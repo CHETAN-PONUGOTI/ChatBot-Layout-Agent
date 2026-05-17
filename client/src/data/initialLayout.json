@@ -1,0 +1,107 @@
+{
+  "rootNodes": ["artboard_1778485662755_3"],
+  "nodes": {
+    "artboard_1778485662755_3": {
+      "id": "artboard_1778485662755_3",
+      "type": "artboard",
+      "width": 1080,
+      "height": 1080,
+      "data": { "backgroundColor": "#ffffff" },
+      "name": "Instagram Post",
+      "children": [
+        "img_1778485681535_4",
+        "img_1778486846247_10",
+        "img_1778486856821_11",
+        "img_1778487081392_12",
+        "img_1778487101466_13",
+        "img_1778487110538_14",
+        "img_1778489515746_17",
+        "text_1778486004640_6",
+        "text_1778486136643_7",
+        "text_1778486306230_8",
+        "text_1778486552508_9",
+        "circle_1778488914968_15",
+        "text_1778489078397_16"
+      ]
+    },
+    "img_1778485681535_4": {
+      "id": "img_1778485681535_4",
+      "type": "image",
+      "name": "Background.png",
+      "x": 0, "y": 0, "width": 1080, "height": 1080,
+      "nx": 0, "ny": 0, "nw": 1, "nh": 1
+    },
+    "img_1778486846247_10": {
+      "id": "img_1778486846247_10", "type": "image", "name": "Vector (2).png",
+      "x": 333.4, "y": 124.9, "width": 36.9, "height": 40.7,
+      "nx": 0.308, "ny": 0.115, "nw": 0.034, "nh": 0.037
+    },
+    "img_1778486856821_11": {
+      "id": "img_1778486856821_11", "type": "image", "name": "Vector (1).png",
+      "x": 229.7, "y": 126.7, "width": 36.9, "height": 40.7,
+      "nx": 0.212, "ny": 0.117, "nw": 0.034, "nh": 0.037
+    },
+    "img_1778487081392_12": {
+      "id": "img_1778487081392_12", "type": "image", "name": "Vector (1).png",
+      "x": 283.7, "y": 127.8, "width": 36.9, "height": 37.8,
+      "nx": 0.262, "ny": 0.118, "nw": 0.034, "nh": 0.035
+    },
+    "img_1778487101466_13": {
+      "id": "img_1778487101466_13", "type": "image", "name": "Vector (1).png",
+      "x": 432.5, "y": 126.7, "width": 42.7, "height": 34.9,
+      "nx": 0.400, "ny": 0.117, "nw": 0.039, "nh": 0.032
+    },
+    "img_1778487110538_14": {
+      "id": "img_1778487110538_14", "type": "image", "name": "Vector (2).png",
+      "x": 380.5, "y": 127.8, "width": 39.8, "height": 34.9,
+      "nx": 0.352, "ny": 0.118, "nw": 0.036, "nh": 0.032
+    },
+    "img_1778489515746_17": {
+      "id": "img_1778489515746_17", "type": "image", "name": "Product.png",
+      "x": 89.8, "y": 571.8, "width": 824.8, "height": 340.5,
+      "nx": 0.083, "ny": 0.529, "nw": 0.763, "nh": 0.315
+    },
+    "text_1778486004640_6": {
+      "id": "text_1778486004640_6", "type": "text", "name": "Text",
+      "x": 346.0, "y": 956.9, "width": 491.0, "height": 73.4,
+      "nx": 0.320, "ny": 0.886, "nw": 0.454, "nh": 0.068,
+      "data": { "content": "Limited time offer" },
+      "style": { "visual": { "fontSize": 48, "fontWeight": 600, "value": "#FFFF" } }
+    },
+    "text_1778486136643_7": {
+      "id": "text_1778486136643_7", "type": "text", "name": "Text",
+      "x": 194.3, "y": 350.1, "width": 768.9, "height": 40.0,
+      "nx": 0.179, "ny": 0.324, "nw": 0.712, "nh": 0.037,
+      "data": { "content": "Comfort that defines modern living." },
+      "style": { "visual": { "fontSize": 48, "fontWeight": 600, "value": "#FFFF" } }
+    },
+    "text_1778486306230_8": {
+      "id": "text_1778486306230_8", "type": "text", "name": "Text",
+      "x": 133.3, "y": 175.5, "width": 844.0, "height": 378.3,
+      "nx": 0.123, "ny": 0.162, "nw": 0.781, "nh": 0.350,
+      "data": { "content": "Luxury Comfort, \n Surprisingly Attainable" },
+      "style": { "visual": { "fontSize": 72, "fontWeight": 700, "value": "#FFFF" } }
+    },
+    "text_1778486552508_9": {
+      "id": "text_1778486552508_9", "type": "text", "name": "Text",
+      "x": 482.7, "y": 121.0, "width": 471.4, "height": 49.0,
+      "nx": 0.446, "ny": 0.112, "nw": 0.436, "nh": 0.045,
+      "data": { "content": "Over 8,000 happy homes" },
+      "style": { "visual": { "fontSize": 40, "fontWeight": 600, "value": "#FFFF" } }
+    },
+    "text_1778489078397_16": {
+      "id": "text_1778489078397_16", "type": "text", "name": "Text",
+      "x": 130.8, "y": 448.5, "width": 176.0, "height": 151.1,
+      "nx": 0.121, "ny": 0.415, "nw": 0.163, "nh": 0.139,
+      "data": { "content": "20%\nOFF" },
+      "style": { "visual": { "fontSize": 56, "fontWeight": 700, "value": "#FFFF" } }
+    },
+    "circle_1778488914968_15": {
+      "id": "circle_1778488914968_15", "type": "shape", "name": "Circle",
+      "x": 103.6, "y": 437.4, "width": 159.7, "height": 153.8,
+      "nx": 0.096, "ny": 0.405, "nw": 0.147, "nh": 0.142,
+      "shapeType": "circle",
+      "style": { "visual": { "fill": { "value": "#F4CF1B" } } }
+    }
+  }
+}
